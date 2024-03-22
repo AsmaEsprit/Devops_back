@@ -1,4 +1,11 @@
 
-h
-java:S2699
-"-Add at least one assertion to this test case.(Ñ¦è2J$5a4d1f9f-5c40-4d63-ab30-090c961a7cf0
+@
+java:S5786!"Remove this 'public' modifier.(‘©Ç´úÿÿÿÿ8³›İÂæ1
+;
+java:S5786/"Remove this 'public' modifier.(Ô®‚›8³›İÂæ1
+;
+java:S57865"Remove this 'public' modifier.(‚Ÿ8³›İÂæ1
+N
+java:S34158"2Change this assertion to not compare two literals.(§ôº8¶›İÂæ1
+g
+java:S58638"KReplace this assertion to not have the same actual and expected expression.(§ôº8¸›İÂæ1

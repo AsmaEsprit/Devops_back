@@ -11,3 +11,5 @@ Ksrc/test/java/tn/esprit/devops_project/services/ActivitySectorImplTest.java,f\
 Ksrc/test/java/tn/esprit/devops_project/services/ProductServiceImplTest.java,9\3\93f265449566c233dde78059fb691080097653fb
 B
 DevOps_Project.iml,d\a\da34f6fa74476a78b3e9827aca72838d81cffc72
+|
+Lsrc/test/java/tn/esprit/devops_project/services/SupplierServiceImplTest.java,1\6\1626e2d8e4d3424265520edaf691cc956a013fa1
