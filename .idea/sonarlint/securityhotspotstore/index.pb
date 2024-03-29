@@ -29,3 +29,7 @@ l
 <src/main/java/tn/esprit/devops_project/entities/Product.java,a\d\adca481014356231ba614fc196e28a014a014f2c
 t
 Dsrc/main/java/tn/esprit/devops_project/entities/ProductCategory.java,d\d\dd1e453a6bfcb883b392f90ed6777897d2a8274a
+w
+Gsrc/main/java/tn/esprit/devops_project/controllers/ErrorControllor.java,4\1\41abee354d616da7af631efb06cdfd8891915b49
+}
+Msrc/main/java/tn/esprit/devops_project/controllers/CustomErrorController.java,b\5\b5bdf24bdebd50f020d274f7cfb559b3ee400881
