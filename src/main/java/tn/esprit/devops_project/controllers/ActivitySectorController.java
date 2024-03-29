@@ -14,6 +14,10 @@ public class ActivitySectorController {
 
     IActivitySector activitySectorService;
 
+    @GetMapping("/")
+    public String home() {
+        return "Welcome to the home page!";
+    }
     @GetMapping("/activitySector")
     List<ActivitySector> retrieveAllActivitySectors(){
         return activitySectorService.retrieveAllActivitySectors();
